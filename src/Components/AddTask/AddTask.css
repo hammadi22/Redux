@@ -1,0 +1,24 @@
+.navHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 0;
+}
+
+.addTask {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  padding: 25px 10% 0;
+}
+.btn {
+  margin: 0 10px;
+}
+input.form-control {
+  width: 350%;
+}
+h1 {
+  font-family: "time new roman", Bold;
+  color: blueviolet;
+}
